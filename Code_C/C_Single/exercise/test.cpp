@@ -8,11 +8,6 @@ class Increase
     public: 
     int value;
     Increase (){value=0;}
-    
-    
-
-
-
 
 };
 
